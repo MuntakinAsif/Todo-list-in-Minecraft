@@ -1,0 +1,29 @@
+#+title: Shadowlynx Plan
+#+EXPORT_FILE_NAME: /home/muntakin/Documents/Org/minecraft/index.html
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+# Change the background of source block.
+#+HTML_HEAD: <style>pre.src{background:#0C051F;color:white;} </style>
+#+OPTIONS: num:nil ^:{}
+
+* Map date:20/12/23
+#+STARTUP: inlineimages
+[[file:./images/sur-worldcrop3.png]]
+
+
+* Build Ideas [0/2]
+** [ ] first
+- MAP
+  [[file:./images/sur-worldbuild1sc.png]]
+- building a second trade hall in the red colored place in the image then connect the first trade hall with the second one with a sky bridge.
+*** TODO build requirements [0/2]
++ THE reason to build is (last time I got kill by a little drown with his trident and I couldn't get my items back that easy + it's more annoying then my little brother).
+- [ ] we need woods, so to get some woods we have to mine tree and cut our half wooden bridge(South) then replace it with dirt.
+  - estimated woods stacks 35-40
+- [ ] also we need some cobble store
+  - estimated cobble store stacks 5-7
+** TODO Second [ ]
+    - replace the wooden fence with [[file:./images/items/glasspanes-sc.png]] (2 block height) also build some [[file:./images/items/glasspanes-sc.png]] fences around the small islands.
+*** TODO build requirements
+- [0/2] convert the [[file:./images/items/sand-sc.png]] by the [[file:./images/items/furnace-sc.png]] into the [[file:./images/items/glassblock-sc.png]] then make it [[file:./images/items/glasspanes-sc.png]] "glass panes"
+  - [ ]   estimated [[file:./images/items/sand-sc.png]] stacks 35-40
+  - [ ]   estimated [[file:./images/items/oak-sc.png]] stacks 15-20 (also convert to [[file:./images/items/oak-plank-sc.png]])
