@@ -1,6 +1,6 @@
 #+title: Shadowlynx Plan
 #+EXPORT_FILE_NAME: /home/muntakin/Documents/Org/minecraft/index.html
-#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://distro.tube/org-html-themes/org/theme-readtheorg.setup
 # Change the background of source block.
 #+HTML_HEAD: <style>pre.src{background:#0C051F;color:white;} </style>
 #+OPTIONS: num:nil ^:{}
